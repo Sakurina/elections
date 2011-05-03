@@ -1,0 +1,67 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.pb {
+  color: white;
+  margin-bottom: 6px;
+  padding: 6px;
+  font-weight: bold;
+  overflow: hidden;
+  min-width: 0%;
+  max-width: 100%;
+}
+
+#tories {
+  color: white;
+  background-color: #00166C;
+}
+
+#tories-pop {
+  color: white;
+  background-color: #263D9A;
+}
+
+#libs {
+  color: white;
+  background-color: #590904;
+}
+
+#libs-pop {
+  color: white;
+  background-color: #B00;
+}
+
+#ndp {
+  background-color: #F2761E;
+}
+
+#ndp-pop {
+  background-color: #FAA44D;
+}
+
+#bloc {
+  color: white;
+  background-color: #35648E;
+}
+
+#bloc-pop {
+  color: white;
+  background-color: #19A4DD;
+}
+#other {
+  background-color: #36913F;
+}
+#other-pop {
+  background-color: #72C058;
+}
+.party {
+  text-align: right;
+  font-weight: bold;
+  font-size: 1.4em;
+}
+
+footer {
+  padding-top: 13px;
+  text-align: center;
+}
