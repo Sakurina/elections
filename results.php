@@ -10,10 +10,10 @@
   $doc = file_get_html($url);
 
   $parties = array(
-    "0" => "bloc",
-    "1" => "libs",
-    "2" => "ndp",
-    "3" => "tories",
+    "3" => "bloc",
+    "2" => "libs",
+    "1" => "ndp",
+    "0" => "tories",
     "4" => "other",
     "5" => "total");
 
